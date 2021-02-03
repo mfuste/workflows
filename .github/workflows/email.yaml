@@ -17,7 +17,7 @@ jobs:
           subject: saludos
           # Literal body:
           body: Hi I'm Max Jr. Build job of ${{github.repository}} completed successfully!
-          to: mfuste@imim.es
+          to: maxinformatica123@gmail.com
           from: Max Fusté Valls
           # Optional content type (defaults to text/plain):
           content_type: text/html
